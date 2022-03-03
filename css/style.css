@@ -1,0 +1,77 @@
+
+
+#panneau{
+   border: solid 4px red;
+   border-radius: 10px;
+   font-size: 150%;
+   text-align: center;
+   font-family: "Comic Sans MS";
+}
+
+
+/* COLOR NAV */
+.blue{
+  color: #0d6efd;
+
+}
+.blue:hover{
+  background-color: #0d6efd ;
+  color: white;
+}
+
+.brown{
+  color: saddlebrown;
+
+}
+.brown:hover {
+  background-color: saddlebrown;
+  color: white;
+}
+
+.red{
+  color: red;
+
+}
+.red:hover {
+  background-color: red;
+  color: white;
+}
+
+
+.purple{
+  color: purple;
+
+}
+.purple:hover {
+  background-color: mediumvioletred;
+  color: white;
+}
+
+.gold{
+  color: gold;
+
+}
+.gold:hover {
+  background-color: gold;
+  color: white;
+}
+
+.green{
+  color: green;
+
+}
+.green:hover {
+  background-color: green;
+  color: white;
+}
+
+
+
+
+.box-size{
+  box-sizing: border-box;
+  width: 100%;
+  border: solid white 1px;
+  height: 150px;
+
+}
